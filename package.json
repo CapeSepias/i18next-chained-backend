@@ -28,7 +28,7 @@
     "eslint-config-airbnb": "18.2.1",
     "expect.js": "0.3.1",
     "i18next": "20.3.0",
-    "json5": "2.2.0",
+    "json5": "2.2.2",
     "mkdirp": "1.0.4",
     "mocha": "8.4.0",
     "rimraf": "3.0.2",
